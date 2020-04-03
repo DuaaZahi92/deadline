@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'homePage.dart';
-import 'package:flutter_localizations/flutter_localizations.dart';
 
 class DeadlineApp extends StatelessWidget {
   // This widget is the root of your application.
